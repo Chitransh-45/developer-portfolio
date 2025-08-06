@@ -1,17 +1,13 @@
 export const personalData = {
-  name: "ABU SAID",
+  name: "Chitransh Singh",
   profile: '/profile.png',
-  designation: "Software Developer",
-  description: "My name is ABU SAID. I am a professional and enthusiastic programmer in my daily life. I am a quick learner with a self-learning attitude. I love to learn and explore new technologies and am passionate about problem-solving. I love almost all the stacks of web application development and love to make the web more open to the world. My core skill is based on JavaScript and I love to do most of the things using JavaScript. I am available for any kind of job opportunity that suits my skills and interests.",
-  email: 'abusaid7388@gmail.com',
-  phone: '+8801608797655',
-  address: 'Middle Badda, Dhaka, Bangladesh - 1212 ',
-  github: 'https://github.com/said7388',
-  facebook: 'https://www.facebook.com/abusaid.riyaz/',
-  linkedIn: 'https://www.linkedin.com/in/abu-said-bd/',
-  twitter: 'https://twitter.com/said7388',
-  stackOverflow: 'https://stackoverflow.com/users/16840768/abu-said',
-  leetcode: "https://leetcode.com/said3812/",
-  devUsername: "said7388",
-  resume: "https://drive.google.com/file/d/1eyutpKFFhJ9X-qpQGKhUNnVRkB5Wer00/view?usp=sharing"
+  designation: "Frontend Developer",
+  description: "My name is Chitransh Singh, and I’m a passionate Frontend Developer with a Bachelor's degree in Computer Applications (BCA), specialized in Data Science and Artificial Intelligence.I recently completed my graduation from Babu Banarasi Das University, Lucknow. During my academic journey, I developed a strong interest in web development, especially in building clean, responsive, and user-friendly interfaces.I have a solid foundation in JavaScript and enjoy using it to create modern web applications. I’m a quick learner with a self-driven mindset and love exploring new technologies, frameworks, and tools in the frontend ecosystem.I’ve built projects from scratch and worked on everything from layout design to deploying live applications. I’m always eager to take on new challenges and improve my skills.",
+  email: 'thakurchitransh67@gmail.com',
+  phone: '8175885755',
+  address: 'Lucknow, Uttar Pradesh, India',
+  github: 'https://github.com/Chitransh-45',
+  linkedIn: 'www.linkedin.com/in/chitransh-singh-151243341',
+  instagram: "https://www.instagram.com/thakur_chitransh_45?igsh=NDg3OWdmeG52dWxp",
+  resume: "/resume/resume.pdf"
 }
